@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 3,
+      "text": "Doctors3 Appointment",
+      "day": "Feb 5th at 2:30pm",
+      "reminder": false
+    },
+    {
+      "text": "New Task",
+      "day": "Today",
+      "reminder": false,
+      "id": 4
+    },
+    {
+      "text": "Python Task",
+      "day": "only for today",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "Vanilla JavaScript by Traversy Brad",
+      "day": "Today Friday, after 2:30PM ",
+      "reminder": true,
+      "id": 6
+    }
+  ]
+}
